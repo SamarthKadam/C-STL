@@ -1,0 +1,24 @@
+Containers in STL
+1>SequentialContainers:
+*vector (array)
+*list   (doublylinkedlist)
+*deque  (doubleendedque)
+*arrays (array)
+*forward_list (singlelinkedlist)
+
+2>Container Adaptors
+*queu
+*priority queu
+*stack
+
+3>AssociativeContainers:(key value where order matters)
+*set
+*multiset
+*map
+*multimap
+
+4>UnorderedAssociativeContainers:(key value where order doesn't matter)
+*uordered set
+*unordered multiset
+*unordered map
+*unordered multimap
