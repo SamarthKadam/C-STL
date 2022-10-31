@@ -1,2 +1,2 @@
 Stl is very useful as it reduces the complexity of implementing all the stuff and making it simple and clear.
-Also makes optimized solutions.
+Also makes optimized solutions.Implementation is done by refering coding block stl course
