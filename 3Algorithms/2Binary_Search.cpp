@@ -14,7 +14,7 @@ int main()
 		cout<<"Element is present"<<endl;
 		auto lb=lower_bound(arr,arr+n,key);
 		cout<<"Lower bound of 23 is "<<lb-arr<<endl;
-		///lower_bound would return element >=key
+		///lower_bound would return element <=key
 
 
 		auto ub=upper_bound(arr,arr+n,key);
